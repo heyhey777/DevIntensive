@@ -10,7 +10,9 @@
 <ImageView
     android:layout_width="60dp"
     android:layout_height="60dp"
+    android:src="@drawable/small_avatar"
     android:background="@color/color_accent"
+
     android:layout_marginTop="@dimen/spacing_normal_16"/>
     <LinearLayout
 
@@ -36,5 +38,7 @@
             android:textColor="@color/white"
             android:textSize="14sp"
             android:fontFamily="sans-serif"/>
+
+
     </LinearLayout>
 </RelativeLayout>
